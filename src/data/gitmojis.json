@@ -4,7 +4,7 @@
       "emoji": "🎨",
       "entity": "&#x1f3a8;",
       "code": ":art:",
-      "description": "Improve structure / format of the code.",
+      "description": "구조 / 코드 포맷 개선",
       "name": "art",
       "semver": null
     },
